@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> **本仓库已归档（只读）。移动端已并入主仓 [swarm-apps/SwarmDrop](https://github.com/swarm-apps/SwarmDrop) 的 `mobile/` 目录。**
+>
+> 请到主仓提 issue / PR。本仓库的历史已完整并入（129 条提交，`git blame` 可穿透），
+> v0.7.18 及更早版本的 Release / APK 仍保留在此处可供下载。
+>
+> **This repository is archived (read-only).** The mobile app now lives in the
+> `mobile/` directory of [swarm-apps/SwarmDrop](https://github.com/swarm-apps/SwarmDrop).
+> Its full history was preserved in the merge; releases up to v0.7.18 remain here.
+
 <a name="readme-top"></a>
 
 <div align="center">
